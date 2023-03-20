@@ -1,0 +1,14 @@
+p {
+    margin: 30px 15px;
+    padding: 20px;
+    background-color: aquamarine;
+    border: 20px groove red;
+}
+
+h1 {
+    border-style: groove;
+    border-width: 20px;
+    border-top-color: blue ; 
+    border-bottom-color: blue;
+}
+
