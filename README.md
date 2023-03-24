@@ -3,8 +3,8 @@
 
 ### DevQuest
 - Pasta dedicada ao curso de front-end desenvolvido pelo pelos irmãos do canal Dev em Dobro.
-- Aqui encontraremos exercícios usando as seguintes tecnologias: HTML / CSS / JavaScript. 
-- Também encontra-se meus resumos feitos em cada aula, são resumos feitos em códigos.
+- Aqui encontraremos exercícios usando as seguintes tecnologias: HTML / CSS / JavaScript. Porém o curso se estende até a formação de um desenvolvedor Full-Stack.
+- Também encontra-se meus resumos feitos em cada aula, são resumos feitos em linhas de códigos.
 
 ### Lógica de programação
 - Pasta dedicada ao curso de lógica de programação desenvolvido pelo Nélio Alves, da escola DevSuperior.
