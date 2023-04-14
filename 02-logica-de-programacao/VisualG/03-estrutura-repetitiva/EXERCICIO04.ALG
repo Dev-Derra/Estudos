@@ -20,7 +20,7 @@ Inicio
                    se (x < 0) e (y < 0) entao
                       escreval("Quadrante Q3")
                    senao
-                        escreval("Quadrante Q3")
+                        escreval("Quadrante Q4")
                    fimse
               fimse
          fimse
