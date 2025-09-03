@@ -1,0 +1,22 @@
+html {
+    background-color: lightgray;
+    font-size: 32px;
+}
+
+body {
+    background-color: lightgreen;
+    width: 50%;
+    font-size: 3rem;
+}
+
+.pai {
+    background-color: mediumorchid;
+    width: 50%;
+    font-size: 1.5rem;
+}
+
+.filho {
+    background-color: firebrick;
+    width: 50%;
+    font-size: 0.5rem;
+}

@@ -1,0 +1,24 @@
+/* margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px; */
+
+/* margin: 30px; mesma coisa que as 4 propriedades acima */
+
+p {
+    font-size: 20px;
+    margin: 30px 10px; /* 30px em cima e embaixo, 10px nas laterais */
+    padding: 20px; /* espaço interno */ 
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 20px;
+    border-color: blue; 
+}
+
+h1 {
+    border-style: solid;
+    border-width: 20px;
+    border-color: red blue green yellow; /* ordem: cima, direita, baixo, esquerda */ 
+
+}
+
