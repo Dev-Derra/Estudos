@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+
+h1{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1rem;
+}
+
+main {
+    /* min-width: 320px; é melhor usar medidas relativas
+    max-width: 1024px; */
+    width: 85%;
+    margin: 0 auto; /* Centraliza o conteúdo */
+    padding: 20px;
+    background-color: aqua;
+}
+
+ul {
+    font-size: 40px;
+}
+
+li {
+    font-size: 1em;
+}
