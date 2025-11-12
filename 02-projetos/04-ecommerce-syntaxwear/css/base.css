@@ -18,7 +18,7 @@ main {
     color: #ffffff;
     font-weight: 400;
     padding: 10px 20px;
-    transition: backgound-color 0.3s, border 0.3s;
+    transition: background-color 0.3s, border 0.3s;
 }
 
 .btn-outline {
