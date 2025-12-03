@@ -12,3 +12,12 @@ function éPar(numero) {
 }
 console.log(éPar(4)); // true
 console.log(éPar(7)); // false
+
+
+// função nomeada para soma
+function soma(a, b) {
+  return a + b;
+}
+
+console.log(soma(3, 5)); // 8
+console.log(soma(10, 15)); // 25
