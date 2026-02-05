@@ -116,8 +116,17 @@ body {
 }
 
 @media (max-width: 1200px) {
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+    
     .apresentacao {
         flex-direction: column-reverse;
+        padding: 5%;
         text-align: center;
     }
 
@@ -126,10 +135,10 @@ body {
     }
 
     .apresentacao__conteudo {
-        width: 100%;
+        width: auto;
     }
 
     .apresentacao__links {
-        flex-direction: row;
+        flex-direction: column;
     }
 }
